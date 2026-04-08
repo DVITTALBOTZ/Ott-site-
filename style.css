@@ -1,0 +1,6 @@
+body {margin:0}
+.movie img {width:150px}
+
+@media(max-width:600px){
+ .movie img {width:100px}
+}
